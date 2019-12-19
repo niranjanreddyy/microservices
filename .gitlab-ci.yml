@@ -1,0 +1,3 @@
+pull from origin:
+  script:
+    git pull origin master
